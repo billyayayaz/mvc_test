@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6syUoL98gT2apVlCQPAKb5x4mjItVcNdpLwQStRG7uIv8OBNiCT4Y7O/3OeOY2tLEkAz2F21Kiqp0T+yFbJIQ==",
+  "dgSpecHash": "Duky14LsQdzEHwmt77Q4gsy5by+iz/i50q0voIO7GMyrsDPHaPtw9bz/yzYG4tsUI6fq2aaai/ZSd1chwlznlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\阿牛\\source\\repos\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC.csproj",
+  "projectFilePath": "C:\\Users\\阿牛\\source\\mvc\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\阿牛\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\阿牛\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

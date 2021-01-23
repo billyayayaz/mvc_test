@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\阿牛\\source\\repos\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC.csproj",
+      "projectUniqueName": "C:\\Users\\阿牛\\source\\mvc\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC.csproj",
       "projectName": "CoreMvc3_firstMVC",
-      "projectPath": "C:\\Users\\阿牛\\source\\repos\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC.csproj",
+      "projectPath": "C:\\Users\\阿牛\\source\\mvc\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC.csproj",
       "packagesPath": "C:\\Users\\阿牛\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\阿牛\\source\\repos\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\obj\\",
+      "outputPath": "C:\\Users\\阿牛\\source\\mvc\\CoreMvc3_firstMVC\\CoreMvc3_firstMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\阿牛\\AppData\\Roaming\\NuGet\\NuGet.Config",
